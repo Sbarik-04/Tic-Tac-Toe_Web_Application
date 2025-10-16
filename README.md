@@ -1,4 +1,4 @@
-# PRODIGY_WD_03
+# Tic-Tac-Toe_Web_Application
 Tic-Tac-Toe Web Application
 🧩 About the Project:
 This Tic-Tac-Toe web application was developed as part of my internship task at Prodigy Infotech. The goal was to create an interactive and responsive browser-based game using HTML, CSS, and JavaScript.
